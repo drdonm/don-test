@@ -1,0 +1,8 @@
+{
+  "name": "DonTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c023c4ca"
+}
